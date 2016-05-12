@@ -1,5 +1,6 @@
 # MultiwayTreeZipper
-Fork for elm 0.17
+Fork for elm 0.17.
+
 This library was created with the goal of allowing a multiway tree to be
 navigated and updated.
 
