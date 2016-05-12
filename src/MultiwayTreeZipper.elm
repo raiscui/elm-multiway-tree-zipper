@@ -1,9 +1,9 @@
-module MultiwayTreeZipper
+module MultiwayTreeZipper exposing
     ( Context (..), Breadcrumbs, Zipper
     , goToChild, goUp, goToRoot
     , updateDatum, replaceDatum
     , datum, maybeDatum
-    ) where
+    )
 -- TODO: Add more documentation
 
 {-| A library for navigating and updating immutable trees. The elements in
