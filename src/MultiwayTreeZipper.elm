@@ -34,7 +34,6 @@ Wanted the first version to be self contained.
 -}
 
 import List
-import Graphics.Element exposing (show)
 import Maybe exposing (Maybe (..))
 
 import MultiwayTree exposing (Tree (..), Forest, children)
